@@ -1318,3 +1318,4 @@ Not Found: /catalog/
 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
 "GET /static/debug_toolbar/img/Green.svg HTTP/1.1" 304 0
 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+"GET /admin/ HTTP/1.1" 200 36504
